@@ -26,7 +26,7 @@
       <file leaf-file-name="WC.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/WC.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="5" selection-start="501" selection-end="501" vertical-scroll-proportion="0.40044492" vertical-offset="0" max-vertical-offset="899">
+            <state line="37" column="0" selection-start="730" selection-end="730" vertical-scroll-proportion="0.6173526" vertical-offset="0" max-vertical-offset="899">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="input.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+            <state line="0" column="3" selection-start="3" selection-end="3" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
               <folding />
             </state>
           </provider>
@@ -63,8 +63,8 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/test/models/WC_spec.rb" />
         <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
-        <option value="$PROJECT_DIR$/app/models/input.txt" />
         <option value="$PROJECT_DIR$/spec/model/WC_spec.rb" />
+        <option value="$PROJECT_DIR$/app/models/input.txt" />
         <option value="$PROJECT_DIR$/app/models/WC.rb" />
       </list>
     </option>
@@ -654,6 +654,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="3" selection-start="3" selection-end="3" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spec/model/WC_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="4" selection-start="523" selection-end="523" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
@@ -661,16 +668,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/WC.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="5" selection-start="501" selection-end="501" vertical-scroll-proportion="0.40044492" vertical-offset="0" max-vertical-offset="899">
+        <state line="37" column="0" selection-start="730" selection-end="730" vertical-scroll-proportion="0.6173526" vertical-offset="0" max-vertical-offset="899">
           <folding />
         </state>
       </provider>
