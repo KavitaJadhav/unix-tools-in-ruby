@@ -1,4 +1,7 @@
+require_relative './ReadWriteFile'
+
 class WC
+  include ReadWritFile
 
   def line_count data
     data.split("\n").count
@@ -20,18 +23,11 @@ class WC
     count.join(' ')
   end
 
-  def print_count data, options
+  def print_count file_name, options
+    data = read_from_file file_name
     puts get_count data, options
   end
-
-  def read_from_file file_name
-    file = File.open(file_name, "r")
-    file_data = file.read
-    file.close
-    file_data
-  end
-
-  def write_to_file file_name, text
-    File.open(file_name, 'w') {|f| f.write(text) }
-  end
 end
+
+WC.new.print_count  "app/models/input.txt", "wc"
+
